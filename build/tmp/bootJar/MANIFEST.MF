@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
-Start-Class: AppConfiguration
+Start-Class: com.detroitlabs.GroceryShopperApp.AppConfiguration
 Main-Class: org.springframework.boot.loader.JarLauncher
 
