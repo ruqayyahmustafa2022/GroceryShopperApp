@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8/">
+    <title>Home Page</title>
+    <link rel="stylesheet" th:href="@{/app.css}"/>
+
+</head>
+<body>
+<div class="container">
+
+    <img class="stencil" src="/images/stencil.png" alt="Stencil">
+    <div class="text-block">
+        <h1>CHECKOUT</h1>
+
+        <h3>Subtotal:</h3>
+        <h3>Fare:</h3>
+        <h3>Total:</h3>
+
+        <form action="/confirmation" method="post">
+            <div class="imgcontainer">
+
+            </div>
+
+            <div class="form-container">
+
+                <label for="cardNum"><b>CREDIT CARD NO:</b></label><br>
+                <input type="text" placeholder="XXXX XXXX XXXX XXXX" name="cardNum" required></br>
+
+                <label for="expDate"><b>EXP. DATE:</b></label></br>
+                <input type="password" placeholder="Enter Date" name="expDate" required><br>
+
+                <label for="cvsv"><b>CVV:</b></label></br>
+                <input type="password" placeholder="CVV" name="cvv" required><br>
+
+                <button type="submit">Submit Payment</button><br>
+
+            </div>
+
+        </form>
+    </div>
+
+</body>
+</html>
