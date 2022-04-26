@@ -1,5 +1,6 @@
 package com.detroitlabs.GroceryShopperApp.controller;
 
+import org.springframework.web.bind.annotation.RestController;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
@@ -8,7 +9,7 @@ public class Shop4MeController {
 
 //TODO: CORRECT REQUEST MAPPING FOR EACH PAGE
    //Stencil 1: login page TODO: MAKE LOGIN MORE REALISTIC
-    @RequestMapping( "/")
+    @RequestMapping( "/login")
     public String loginPage()
     {
         return "login";
