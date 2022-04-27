@@ -2,15 +2,15 @@
 <html lang="en" xmlns:th="http://www.thymeleaf.org">
 
 <head>
-    <meta charset="UTF-8/">
+    <meta charset="UTF-8"/>
     <title>Home Page</title>
-    <link rel="stylesheet" th:href="@{/static/app.css}"/>
+    <link rel="stylesheet" th:href="@{/app.css}"/>
 
 </head>
 <body>
 <div class="container">
 
-    <img class="stencil" src="/images/stencil.png" alt="Stencil">
+    <img class="stencil" th:src="@{/images/stencil.png}" alt="Stencil">
     <div class="text-block">
         <h1>Shop4Me!</h1>
         <h2>Login</h2>
@@ -42,6 +42,6 @@
 
         </form>
 </div>
-
+</div>
 </body>
 </html>
