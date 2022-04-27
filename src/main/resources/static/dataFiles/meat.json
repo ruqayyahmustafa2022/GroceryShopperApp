@@ -1,0 +1,290 @@
+{
+  "data": [
+    {
+      "productId": "0021058100000",
+      "upc": "0021058100000",
+      "aisleLocations": [],
+      "brand": "Heritage Farm",
+      "categories": [
+        "Meat & Seafood",
+        "Natural & Organic"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Heritage Farm™ Boneless & Skinless Chicken Tenderloins (10-12 per Pack)",
+      "images": [
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0021058100000"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0021058100000"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0021058100000"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0021058100000"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0021058100000"
+            }
+          ]
+        },
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0021058100000"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0021058100000"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0021058100000"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0021058100000"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0021058100000"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0021058100000",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": false,
+            "delivery": false,
+            "inStore": false,
+            "shipToHome": false
+          },
+          "size": "1 lb"
+        }
+      ],
+      "itemInformation": {},
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111034567",
+      "upc": "0001111034567",
+      "aisleLocations": [],
+      "brand": "Kroger",
+      "categories": [
+        "Meat & Seafood",
+        "Meat & Seafood",
+        "Natural & Organic"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger® Beef Shaved Steak",
+      "images": [
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0001111034567"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0001111034567"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0001111034567"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0001111034567"
+            }
+          ]
+        },
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111034567"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111034567"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111034567"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111034567"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111034567"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111034567",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": false,
+            "delivery": false,
+            "inStore": false,
+            "shipToHome": false
+          },
+          "size": "14 oz"
+        }
+      ],
+      "itemInformation": {},
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0021065600000",
+      "upc": "0021065600000",
+      "aisleLocations": [],
+      "brand": "Heritage Farm",
+      "categories": [
+        "Meat & Seafood",
+        "Natural & Organic"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Heritage Farm Boneless & Skinless Chicken Breasts with Rib Meat",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0021065600000"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0021065600000"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0021065600000"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0021065600000"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0021065600000"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0021065600000",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": false,
+            "delivery": false,
+            "inStore": false,
+            "shipToHome": false
+          },
+          "size": "1 lb"
+        }
+      ],
+      "itemInformation": {},
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111096972",
+      "upc": "0001111096972",
+      "aisleLocations": [],
+      "brand": "Kroger",
+      "categories": [
+        "Meat & Seafood",
+        "Natural & Organic"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger 80% Lean Ground Beef",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111096972"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111096972"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111096972"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111096972"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111096972"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111096972",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": false,
+            "delivery": false,
+            "inStore": false,
+            "shipToHome": false
+          },
+          "size": "1 lb"
+        }
+      ],
+      "itemInformation": {},
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "start": 0,
+      "limit": 4,
+      "total": 1681
+    }
+  }
+}

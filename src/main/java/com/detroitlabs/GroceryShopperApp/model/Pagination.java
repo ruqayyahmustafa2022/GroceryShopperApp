@@ -1,5 +1,10 @@
 package com.detroitlabs.GroceryShopperApp.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import org.springframework.stereotype.Component;
+
+
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Pagination {
     private int limit;
 

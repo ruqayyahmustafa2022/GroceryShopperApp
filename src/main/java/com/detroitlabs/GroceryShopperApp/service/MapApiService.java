@@ -5,12 +5,11 @@ import org.springframework.web.client.RestTemplate;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
-import java.util.List;
 
 
 @Component
 
-public class mapApiService {
+public class MapApiService {
     public MapData accessMapData() throws UnsupportedEncodingException {
         RestTemplate restTemplate = new RestTemplate();
         String storeAddress = "1115 Government St, Mobile, AL";

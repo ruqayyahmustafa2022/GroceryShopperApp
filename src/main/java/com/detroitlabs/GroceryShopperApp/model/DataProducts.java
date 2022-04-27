@@ -1,13 +1,17 @@
 package com.detroitlabs.GroceryShopperApp.model;
 
-public class DataProducts {
-    private DataProducts data;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
-    public DataProducts getData() {
-        return data;
+import java.util.List;
+@JsonIgnoreProperties(ignoreUnknown = true)
+public class DataProducts {
+    private List<Image> images;
+
+    public List<Image> getImages() {
+        return images;
     }
 
-    public void setData(DataProducts data) {
-        this.data = data;
+    public void setImages(List<Image> images) {
+        this.images = images;
     }
 }

@@ -1,0 +1,491 @@
+{
+  "data": [
+    {
+      "productId": "0003338320038",
+      "upc": "0003338320038",
+      "aisleLocations": [],
+      "categories": [
+        "Natural & Organic",
+        "Produce"
+      ],
+      "description": "Organic - Berries - Strawberries",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0003338320038"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0003338320038"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0003338320038"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0003338320038",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": false,
+            "delivery": false,
+            "inStore": false,
+            "shipToHome": false
+          },
+          "size": "16 oz"
+        }
+      ],
+      "itemInformation": {},
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0000000094011",
+      "upc": "0000000094011",
+      "aisleLocations": [],
+      "categories": [
+        "Natural & Organic",
+        "Produce"
+      ],
+      "countryOrigin": "COLOMBIA; COSTA RICA; ECUADOR; GUATEMALA; HONDURAS; MEXICO; PERU",
+      "description": "Organic Banana",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0000000094011"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0000000094011"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0000000094011"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0000000094011"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0000000094011"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0000000094011",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": false,
+            "delivery": false,
+            "inStore": false,
+            "shipToHome": false
+          },
+          "size": "1 ct"
+        }
+      ],
+      "itemInformation": {},
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0003338322101",
+      "upc": "0003338322101",
+      "aisleLocations": [],
+      "categories": [
+        "Produce"
+      ],
+      "countryOrigin": "ARGENTINA; CANADA; CHILE; MEXICO; PERU; UNITED STATES",
+      "description": "Blueberries",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0003338322101"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0003338322101"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0003338322101"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0003338322101"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0003338322101"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0003338322101",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": false,
+            "delivery": false,
+            "inStore": false,
+            "shipToHome": false
+          },
+          "size": "11 oz"
+        }
+      ],
+      "itemInformation": {},
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0003338322241",
+      "upc": "0003338322241",
+      "aisleLocations": [],
+      "categories": [
+        "Produce"
+      ],
+      "description": "Blueberries",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0003338322241"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0003338322241"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0003338322241"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0003338322241"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0003338322241"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0003338322241",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": false,
+            "delivery": false,
+            "inStore": false,
+            "shipToHome": false
+          },
+          "size": "18 oz"
+        }
+      ],
+      "itemInformation": {},
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0003022308160",
+      "upc": "0003022308160",
+      "aisleLocations": [],
+      "categories": [
+        "Produce",
+        "Produce",
+        "Produce"
+      ],
+      "description": "Watermelon Chunks",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0003022308160"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0003022308160"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0003022308160"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0003022308160",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": false,
+            "delivery": false,
+            "inStore": false,
+            "shipToHome": false
+          },
+          "size": "24 oz"
+        }
+      ],
+      "itemInformation": {},
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0003338320030",
+      "upc": "0003338320030",
+      "aisleLocations": [],
+      "categories": [
+        "Produce"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Strawberries",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0003338320030"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0003338320030"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0003338320030"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0003338320030"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0003338320030"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0003338320030",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": false,
+            "delivery": false,
+            "inStore": false,
+            "shipToHome": false
+          },
+          "size": "32 oz"
+        }
+      ],
+      "itemInformation": {},
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0003338321000",
+      "upc": "0003338321000",
+      "aisleLocations": [],
+      "categories": [
+        "Produce"
+      ],
+      "countryOrigin": "CHILE; MEXICO; UNITED STATES",
+      "description": "Red Raspberries",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0003338321000"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0003338321000"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0003338321000"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0003338321000"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0003338321000",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": false,
+            "delivery": false,
+            "inStore": false,
+            "shipToHome": false
+          },
+          "size": "6 oz"
+        }
+      ],
+      "itemInformation": {},
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0003338324000",
+      "upc": "0003338324000",
+      "aisleLocations": [],
+      "brand": "Driscoll's",
+      "categories": [
+        "Produce"
+      ],
+      "countryOrigin": "ARGENTINA; CANADA; CHILE; MEXICO; PERU; UNITED STATES",
+      "description": "Berries - Blackberries",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0003338324000"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0003338324000"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0003338324000"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0003338324000"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0003338324000"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0003338324000",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": false,
+            "delivery": false,
+            "inStore": false,
+            "shipToHome": false
+          },
+          "size": "6 oz"
+        }
+      ],
+      "itemInformation": {},
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0003022308162",
+      "upc": "0003022308162",
+      "aisleLocations": [],
+      "brand": "Fresh Kitchen",
+      "categories": [
+        "Produce",
+        "Produce",
+        "Produce"
+      ],
+      "description": "Fresh Kitchen Pineapple Chunks",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0003022308162"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0003022308162"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0003022308162"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0003022308162",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": false,
+            "delivery": false,
+            "inStore": false,
+            "shipToHome": false
+          },
+          "size": "24 oz"
+        }
+      ],
+      "itemInformation": {},
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "start": 0,
+      "limit": 10,
+      "total": 1697
+    }
+  }
+}
