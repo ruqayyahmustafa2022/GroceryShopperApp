@@ -10,5 +10,8 @@ import java.util.List;
 
 public class StoreData {
     //this is product data from Kroger API json response
+    private Meta meta;
+    //private List<Data> data;
+
 
 }
