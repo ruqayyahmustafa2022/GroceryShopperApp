@@ -13,10 +13,10 @@ import java.io.UnsupportedEncodingException;
 @Controller
 public class TestProductController {
     //this class retrieve the virtual shopper's address from repository or database
-    /*
-    @RequestMapping("/test")
+
+    @RequestMapping("/testJson")
     @ResponseBody
-    */
+
 
 
    // public String retrieveMapData(String originAddress, String destinationAddress) throws UnsupportedEncodingException {
@@ -27,6 +27,8 @@ public class TestProductController {
         StoreData storeData = productAPI.accessStoreData();
         int numProduct = storeData.getMeta().getPagination().getLimit();
         String imageFile = storeData.getData().get(0).getImages().get(0).getSizes().get(0).getUrl();
+        double veggiePrice = storeData.getData().get(0).getItems().get(0).getPrice().get(0).getRegular();
+
 
         return imageFile;
     }

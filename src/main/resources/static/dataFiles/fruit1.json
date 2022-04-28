@@ -1,0 +1,938 @@
+{
+  "data": [
+    {
+      "productId": "0001111091829",
+      "upc": "0001111091829",
+      "aisleLocations": [
+        {
+          "description": "PRODUCE",
+          "number": "0"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Produce"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger® Green Granny Smith Apples Pouch",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111091829"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111091829"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111091829"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111091829"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111091829"
+            }
+          ]
+        },
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0001111091829"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0001111091829"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0001111091829"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0001111091829"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0001111091829"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111091829",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 4.29,
+            "promo": 0
+          },
+          "size": "3 lb",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "4.5",
+        "height": "6.0",
+        "width": "8.0"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111018233",
+      "upc": "0001111018233",
+      "aisleLocations": [
+        {
+          "description": "PRODUCE",
+          "number": "0"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Produce"
+      ],
+      "description": "Kroger Adorbs Easy Peel Seedless Mandarins",
+      "images": [
+        {
+          "perspective": "top",
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/top/0001111018233"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/top/0001111018233"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/top/0001111018233"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/top/0001111018233"
+            }
+          ]
+        },
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111018233"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111018233"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111018233"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111018233"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111018233",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 8.99,
+            "promo": 0
+          },
+          "size": "5 lb",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "8.0",
+        "height": "7.0",
+        "width": "8.0"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111018188",
+      "upc": "0001111018188",
+      "aisleLocations": [
+        {
+          "description": "PRODUCE",
+          "number": "0"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Produce"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger® Fuji Apples Bag",
+      "images": [
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0001111018188"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0001111018188"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0001111018188"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0001111018188"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0001111018188"
+            }
+          ]
+        },
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111018188"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111018188"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111018188"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111018188"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111018188"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111018188",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 4.29,
+            "promo": 0
+          },
+          "size": "3 lb",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "6.0",
+        "height": "4.5",
+        "width": "8.5"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111018199",
+      "upc": "0001111018199",
+      "aisleLocations": [
+        {
+          "description": "PRODUCE",
+          "number": "0"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Produce"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger® Navel Oranges",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111018199"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111018199"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111018199"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111018199"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111018199"
+            }
+          ]
+        },
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0001111018199"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0001111018199"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0001111018199"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0001111018199"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0001111018199"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111018199",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 7.99,
+            "promo": 0
+          },
+          "size": "8 lb",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "19.9",
+        "height": "5.45",
+        "width": "11.4"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111091825",
+      "upc": "0001111091825",
+      "aisleLocations": [
+        {
+          "description": "PRODUCE",
+          "number": "0"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Produce"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger® Gala Apples Bag",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111091825"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111091825"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111091825"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111091825"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111091825"
+            }
+          ]
+        },
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0001111091825"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0001111091825"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0001111091825"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0001111091825"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0001111091825"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111091825",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 4.29,
+            "promo": 0
+          },
+          "size": "3 lb",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "4.15",
+        "height": "8.45",
+        "width": "4.2"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111018180",
+      "upc": "0001111018180",
+      "aisleLocations": [
+        {
+          "description": "PRODUCE",
+          "number": "0"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Produce"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger® Hass Avocados",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111018180"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111018180"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111018180"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111018180"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111018180"
+            }
+          ]
+        },
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0001111018180"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0001111018180"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0001111018180"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0001111018180"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0001111018180"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111018180",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 4.99,
+            "promo": 0
+          },
+          "size": "4 ct",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "8.05",
+        "height": "5.45",
+        "width": "7.0"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111091189",
+      "upc": "0001111091189",
+      "aisleLocations": [
+        {
+          "description": "PRODUCE",
+          "number": "0"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Produce"
+      ],
+      "description": "Kroger® Limes",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111091189"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111091189"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111091189"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111091189"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111091189"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111091189",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 5.99,
+            "promo": 0
+          },
+          "size": "2 lb",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "9.35",
+        "height": "4.65",
+        "width": "13.25"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111008607",
+      "upc": "0001111008607",
+      "aisleLocations": [
+        {
+          "bayNumber": "975",
+          "description": "SHELF EXTENDER PROGRAM",
+          "number": "997",
+          "numberOfFacings": "1",
+          "side": "L",
+          "shelfNumber": "10",
+          "shelfPositionInBay": "6"
+        },
+        {
+          "bayNumber": "5",
+          "description": "AISLE 5",
+          "number": "5",
+          "numberOfFacings": "1",
+          "side": "L",
+          "shelfNumber": "2",
+          "shelfPositionInBay": "2"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Snacks",
+        "Produce"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger® Premium Whole Dried Strawberries",
+      "images": [
+        {
+          "perspective": "left",
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/left/0001111008607"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/left/0001111008607"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/left/0001111008607"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/left/0001111008607"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/left/0001111008607"
+            }
+          ]
+        },
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111008607"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111008607"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111008607"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111008607"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111008607"
+            }
+          ]
+        },
+        {
+          "perspective": "right",
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/right/0001111008607"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/right/0001111008607"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/right/0001111008607"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/right/0001111008607"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/right/0001111008607"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111008607",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 3.99,
+            "promo": 0
+          },
+          "size": "4 oz",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "1.5",
+        "height": "5.5",
+        "width": "5.8"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111091188",
+      "upc": "0001111091188",
+      "aisleLocations": [
+        {
+          "description": "PRODUCE",
+          "number": "0"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Produce"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger® Lemons",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111091188"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111091188"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111091188"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111091188"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111091188"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111091188",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 3.99,
+            "promo": 0
+          },
+          "size": "2 lb",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "9.0",
+        "height": "8.9",
+        "width": "7.2"
+      },
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111018195",
+      "upc": "0001111018195",
+      "aisleLocations": [],
+      "brand": "Kroger",
+      "categories": [
+        "Produce"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger® Red Grapefruit Bag",
+      "images": [
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0001111018195"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0001111018195"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0001111018195"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0001111018195"
+            }
+          ]
+        },
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111018195"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111018195"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111018195"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111018195"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111018195"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111018195",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 5.99,
+            "promo": 0
+          },
+          "size": "5 lb",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {},
+      "temperature": {
+        "indicator": "Ambient",
+        "heatSensitive": false
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "start": 0,
+      "limit": 10,
+      "total": 247
+    }
+  }
+}

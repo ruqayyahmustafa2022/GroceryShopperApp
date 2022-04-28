@@ -1,0 +1,1005 @@
+{
+  "data": [
+    {
+      "productId": "0001111096875",
+      "upc": "0001111096875",
+      "aisleLocations": [
+        {
+          "bayNumber": "2",
+          "description": "MEAT",
+          "number": "101",
+          "numberOfFacings": "2",
+          "side": "R",
+          "shelfNumber": "2",
+          "shelfPositionInBay": "4"
+        },
+        {
+          "bayNumber": "2",
+          "description": "MEAT",
+          "number": "101",
+          "numberOfFacings": "2",
+          "side": "R",
+          "shelfNumber": "3",
+          "shelfPositionInBay": "4"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Meat & Seafood",
+        "Natural & Organic"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger® 85% Lean Fresh Ground Turkey",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111096875"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111096875"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111096875"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111096875"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111096875"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111096875",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 4.49,
+            "promo": 3.99
+          },
+          "size": "16 oz",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "6.7",
+        "height": "1.75",
+        "width": "8.8"
+      },
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111034567",
+      "upc": "0001111034567",
+      "aisleLocations": [
+        {
+          "bayNumber": "4",
+          "description": "MEAT",
+          "number": "101",
+          "numberOfFacings": "1",
+          "side": "R",
+          "shelfNumber": "3",
+          "shelfPositionInBay": "3"
+        },
+        {
+          "bayNumber": "4",
+          "description": "MEAT",
+          "number": "101",
+          "numberOfFacings": "1",
+          "side": "R",
+          "shelfNumber": "4",
+          "shelfPositionInBay": "5"
+        },
+        {
+          "bayNumber": "4",
+          "description": "MEAT",
+          "number": "101",
+          "numberOfFacings": "1",
+          "side": "R",
+          "shelfNumber": "5",
+          "shelfPositionInBay": "5"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Meat & Seafood",
+        "Meat & Seafood",
+        "Natural & Organic"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger® Beef Shaved Steak",
+      "images": [
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0001111034567"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0001111034567"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0001111034567"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0001111034567"
+            }
+          ]
+        },
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111034567"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111034567"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111034567"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111034567"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111034567"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111034567",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 7.99,
+            "promo": 0
+          },
+          "size": "14 oz",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "6.7",
+        "height": "2.3",
+        "width": "8.75"
+      },
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111096731",
+      "upc": "0001111096731",
+      "aisleLocations": [
+        {
+          "bayNumber": "4",
+          "description": "MEAT",
+          "number": "101",
+          "numberOfFacings": "1",
+          "side": "R",
+          "shelfNumber": "2",
+          "shelfPositionInBay": "2"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Meat & Seafood",
+        "Natural & Organic"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Homestyle 80% Lean Beef Patties",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111096731"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111096731"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111096731"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111096731"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111096731"
+            }
+          ]
+        },
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0001111096731"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0001111096731"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0001111096731"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0001111096731"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0001111096731"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111096731",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 6.99,
+            "promo": 0
+          },
+          "size": "4 ct / 19.2 oz",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "5.6",
+        "height": "1.55",
+        "width": "9.85"
+      },
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111096920",
+      "upc": "0001111096920",
+      "aisleLocations": [
+        {
+          "bayNumber": "5",
+          "description": "MEAT",
+          "number": "101",
+          "numberOfFacings": "2",
+          "side": "R",
+          "shelfNumber": "4",
+          "shelfPositionInBay": "6"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Meat & Seafood",
+        "Natural & Organic"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger® 93/7 Lean Ground Beef",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111096920"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111096920"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111096920"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111096920"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111096920"
+            }
+          ]
+        },
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0001111096920"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0001111096920"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0001111096920"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0001111096920"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0001111096920"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111096920",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 7.49,
+            "promo": 0
+          },
+          "size": "16 oz",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "1.5",
+        "height": "5.75",
+        "width": "8.2"
+      },
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111097293",
+      "upc": "0001111097293",
+      "aisleLocations": [
+        {
+          "bayNumber": "10",
+          "description": "Packaged Meat",
+          "number": "111",
+          "numberOfFacings": "1",
+          "side": "R",
+          "shelfNumber": "1",
+          "shelfPositionInBay": "5"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Meat & Seafood",
+        "Natural & Organic"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger® Original Breakfast Sausage Links",
+      "images": [
+        {
+          "perspective": "top",
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/top/0001111097293"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/top/0001111097293"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/top/0001111097293"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/top/0001111097293"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/top/0001111097293"
+            }
+          ]
+        },
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0001111097293"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0001111097293"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0001111097293"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0001111097293"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0001111097293"
+            }
+          ]
+        },
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111097293"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111097293"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111097293"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111097293"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111097293"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111097293",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 3.49,
+            "promo": 2.5
+          },
+          "size": "12 oz",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "0.88",
+        "height": "6.2",
+        "width": "8.75"
+      },
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0020324300000",
+      "upc": "0020324300000",
+      "aisleLocations": [
+        {
+          "bayNumber": "9",
+          "description": "MEAT",
+          "number": "101",
+          "numberOfFacings": "2",
+          "side": "R",
+          "shelfNumber": "1",
+          "shelfPositionInBay": "3"
+        },
+        {
+          "bayNumber": "9",
+          "description": "MEAT",
+          "number": "101",
+          "numberOfFacings": "2",
+          "side": "R",
+          "shelfNumber": "2",
+          "shelfPositionInBay": "3"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Meat & Seafood",
+        "Natural & Organic"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger® Pork Back Ribs",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0020324300000"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0020324300000"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0020324300000"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0020324300000"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0020324300000"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0020324300000",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 5.99,
+            "promo": 3.99,
+            "regularPerUnitEstimate": 5.99,
+            "promoPerUnitEstimate": 3.99
+          },
+          "size": "1 lb",
+          "soldBy": "WEIGHT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "2.0",
+        "height": "5.25",
+        "width": "18.0"
+      },
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0020799300000",
+      "upc": "0020799300000",
+      "aisleLocations": [
+        {
+          "bayNumber": "8",
+          "description": "MEAT",
+          "number": "101",
+          "numberOfFacings": "1",
+          "side": "R",
+          "shelfNumber": "1",
+          "shelfPositionInBay": "2"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Meat & Seafood",
+        "Natural & Organic"
+      ],
+      "description": "Kroger® Pork Shoulder Butt",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0020799300000"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0020799300000"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0020799300000"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0020799300000"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0020799300000"
+            }
+          ]
+        },
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0020799300000"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0020799300000"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0020799300000"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0020799300000"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0020799300000"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0020799300000",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 2.49,
+            "promo": 1.99,
+            "regularPerUnitEstimate": 2.49,
+            "promoPerUnitEstimate": 1.99
+          },
+          "size": "1 lb",
+          "soldBy": "WEIGHT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "5.0",
+        "height": "8.25",
+        "width": "10.38"
+      },
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111096970",
+      "upc": "0001111096970",
+      "aisleLocations": [
+        {
+          "bayNumber": "4",
+          "description": "MEAT",
+          "number": "101",
+          "numberOfFacings": "2",
+          "side": "R",
+          "shelfNumber": "2",
+          "shelfPositionInBay": "1"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Meat & Seafood",
+        "Natural & Organic"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger 80% Lean Ground Beef",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111096970"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111096970"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111096970"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111096970"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111096970"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111096970",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 14.49,
+            "promo": 11.97
+          },
+          "size": "3 lb",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "3.4",
+        "height": "3.2",
+        "width": "11.7"
+      },
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111096972",
+      "upc": "0001111096972",
+      "aisleLocations": [
+        {
+          "bayNumber": "5",
+          "description": "MEAT",
+          "number": "101",
+          "numberOfFacings": "4",
+          "side": "R",
+          "shelfNumber": "3",
+          "shelfPositionInBay": "6"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Meat & Seafood",
+        "Natural & Organic"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger 80% Lean Ground Beef",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111096972"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111096972"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111096972"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/front/0001111096972"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111096972"
+            }
+          ]
+        },
+        {
+          "perspective": "back",
+          "sizes": [
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/back/0001111096972"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/back/0001111096972"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/back/0001111096972"
+            },
+            {
+              "size": "xlarge",
+              "url": "https://www.kroger.com/product/images/xlarge/back/0001111096972"
+            },
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/back/0001111096972"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111096972",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 5.49,
+            "promo": 3.99
+          },
+          "size": "1 lb",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "5.7",
+        "height": "1.75",
+        "width": "9.35"
+      },
+      "temperature": {
+        "indicator": "Refrigerated",
+        "heatSensitive": false
+      }
+    },
+    {
+      "productId": "0001111097860",
+      "upc": "0001111097860",
+      "aisleLocations": [
+        {
+          "bayNumber": "4",
+          "description": "MEAT",
+          "number": "101",
+          "numberOfFacings": "3",
+          "side": "L",
+          "shelfNumber": "2",
+          "shelfPositionInBay": "1"
+        },
+        {
+          "bayNumber": "4",
+          "description": "MEAT",
+          "number": "101",
+          "numberOfFacings": "2",
+          "side": "L",
+          "shelfNumber": "3",
+          "shelfPositionInBay": "1"
+        },
+        {
+          "bayNumber": "989",
+          "description": "MEAT",
+          "number": "101",
+          "numberOfFacings": "2",
+          "side": "R",
+          "shelfNumber": "1",
+          "shelfPositionInBay": "1"
+        }
+      ],
+      "brand": "Kroger",
+      "categories": [
+        "Frozen"
+      ],
+      "countryOrigin": "UNITED STATES",
+      "description": "Kroger® Boneless Skinless Chicken Breasts with Rib Meat",
+      "images": [
+        {
+          "perspective": "front",
+          "featured": true,
+          "sizes": [
+            {
+              "size": "small",
+              "url": "https://www.kroger.com/product/images/small/front/0001111097860"
+            },
+            {
+              "size": "thumbnail",
+              "url": "https://www.kroger.com/product/images/thumbnail/front/0001111097860"
+            },
+            {
+              "size": "medium",
+              "url": "https://www.kroger.com/product/images/medium/front/0001111097860"
+            },
+            {
+              "size": "large",
+              "url": "https://www.kroger.com/product/images/large/front/0001111097860"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "itemId": "0001111097860",
+          "favorite": false,
+          "fulfillment": {
+            "curbside": true,
+            "delivery": true,
+            "inStore": true,
+            "shipToHome": false
+          },
+          "price": {
+            "regular": 13.99,
+            "promo": 0
+          },
+          "size": "3 lb",
+          "soldBy": "UNIT"
+        }
+      ],
+      "itemInformation": {
+        "depth": "14.05",
+        "height": "2.6",
+        "width": "11.15"
+      },
+      "temperature": {
+        "indicator": "Frozen",
+        "heatSensitive": false
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "start": 0,
+      "limit": 10,
+      "total": 242
+    }
+  }
+}

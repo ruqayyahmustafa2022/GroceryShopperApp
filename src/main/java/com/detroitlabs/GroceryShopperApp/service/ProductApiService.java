@@ -11,7 +11,7 @@ public class ProductApiService {
     public StoreData accessStoreData() throws IOException {
         ObjectMapper objectMapper = new ObjectMapper();
        // RestTemplate restTemplate = new RestTemplate();
-        return objectMapper.readValue(new File("src/main/resources/static/dataFiles/vegetables.json"), StoreData.class);
+        return objectMapper.readValue(new File("src/main/resources/static/dataFiles/vegetables1.json"), StoreData.class);
 
     }
 
