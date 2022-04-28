@@ -12,7 +12,7 @@ public class PersonalShopperRepository {
             new PersonalShopper("Ayah", "8", "static/images/jenbloomer.jpg",
                     "800 Glenwood Ave SE., Atlanta, GA 30316"),
 
-            new PersonalShopper("Jason", "8", "static/images/dannewport.jpg",
+            new PersonalShopper("Jason", "12", "static/images/dannewport.jpg",
                     "800 Glenwood Ave SE., Atlanta, GA 30316"));
 
     private List<PersonalShopper> getAllPersonalshoppers() {return ALL_PERSONALSHOPPERS;}
