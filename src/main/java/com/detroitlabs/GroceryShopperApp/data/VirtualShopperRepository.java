@@ -28,7 +28,7 @@ public class VirtualShopperRepository {
     
     public VirtualShopper findByName(String name){
         for(VirtualShopper virtualShopper: ALL_VIRTUALSHOPPERS){
-            if(virtualShopper.getFirstName().equals(name){
+            if(virtualShopper.getFirstName().equals(name)){
                 return virtualShopper;
             }
         }

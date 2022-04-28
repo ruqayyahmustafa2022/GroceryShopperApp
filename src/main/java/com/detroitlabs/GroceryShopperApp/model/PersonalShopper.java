@@ -3,42 +3,33 @@ package com.detroitlabs.GroceryShopperApp.model;
 import java.util.List;
 
 public class PersonalShopper {
-    private String firstName;
-    private String lastName;
-    private List<String> schedule;
-    private String imageUrl;
+    private String name;
+    private String schedule;
+    private String image;
     private String storeAddress;
 
-    public String getFirstName() {
-        return firstName;
+    public String getName() {
+        return name;
     }
 
-    public void setFirstName(String firstName) {
-        this.firstName = firstName;
+    public void setName(String name) {
+        this.name = name;
     }
 
-    public String getLastName() {
-        return lastName;
-    }
-
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
-    }
-
-    public List<String> getSchedule() {
+    public String getSchedule() {
         return schedule;
     }
 
-    public void setSchedule(List<String> schedule) {
+    public void setSchedule(String schedule) {
         this.schedule = schedule;
     }
 
-    public String getImageUrl() {
-        return imageUrl;
+    public String getImage() {
+        return image;
     }
 
-    public void setImageUrl(String imageUrl) {
-        this.imageUrl = imageUrl;
+    public void setImage(String image) {
+        this.image = image;
     }
 
     public String getStoreAddress() {
@@ -49,11 +40,10 @@ public class PersonalShopper {
         this.storeAddress = storeAddress;
     }
 
-    public PersonalShopper(String firstName, String lastName, List<String> schedule, String imageUrl, String storeAddress) {
-        this.firstName = firstName;
-        this.lastName = lastName;
+    public PersonalShopper(String name, String schedule, String image, String storeAddress) {
+        this.name = name;
         this.schedule = schedule;
-        this.imageUrl = imageUrl;
+        this.image = image;
         this.storeAddress = storeAddress;
     }
 }

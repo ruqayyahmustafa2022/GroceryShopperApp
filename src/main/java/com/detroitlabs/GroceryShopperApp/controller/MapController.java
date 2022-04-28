@@ -18,9 +18,9 @@ public class MapController {
    // public String retrieveMapData(String originAddress, String destinationAddress) throws UnsupportedEncodingException {
      //   MapData mapData = mapApiService.accessMapData(originAddress, destinationAddress);
 
-    public String retrieveMapData() throws UnsupportedEncodingException {
+    public String retrieveMapData(String deliveryAddress, String storeAddress) throws UnsupportedEncodingException {
         MapApiService mapService = new MapApiService();
-        MapData mapData = mapService.accessMapData();
+        MapData mapData = mapService.accessMapData(deliveryAddress, storeAddress);
         String originAddress = mapData.getOriginAddresses().get(0);
         String distance = mapData.getRows().get(0).getElements().get(0).getDistance().getText();
         String duration = mapData.getRows().get(0).getElements().get(0).getDuration().getText();
