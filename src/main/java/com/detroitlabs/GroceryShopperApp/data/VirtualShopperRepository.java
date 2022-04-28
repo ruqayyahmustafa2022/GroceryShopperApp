@@ -13,27 +13,27 @@ import java.util.List;
 public class VirtualShopperRepository {
 
     static final List<VirtualShopper> ALL_VIRTUALSHOPPERS = Arrays.asList(
-            new VirtualShopper("Jane", "Doe", "1234567898765432", "123",
+            new VirtualShopper("Jane", "Doe", "jane2022", "12345678", "1234567898765432", "123",
                     "1231 Gracewood Ave., Atlanta, GA 30316"),
 
-            new VirtualShopper("John", "Wayne", "2345678987654321", "234",
+            new VirtualShopper("John", "Wayne", "john2022", "23456789", "2345678987654321", "234",
                     "2163 Forest Ridge Rd. SE, Atlanta, GA 30316"),
 
-            new VirtualShopper("Jessica", "Simpson", "2345678987654321", "345",
+            new VirtualShopper("Jessica", "Simpson", "jessica2022", "34567890", "2345678987654321", "345",
                     "1862 Arkose Dr., Atlanta, GA 30316"));
 
     public static List<VirtualShopper> getAllVirtualshoppers() {
         return ALL_VIRTUALSHOPPERS;
     }//end getAllVirtualShoppers
     
-    public VirtualShopper findByName(String name){
+    public VirtualShopper findByUsername(String username){
         for(VirtualShopper virtualShopper: ALL_VIRTUALSHOPPERS){
-            if(virtualShopper.getFirstName().equals(name)){
+            if(virtualShopper.getUsername().equals(username)){
                 return virtualShopper;
             }
         }
         return null;
-    }//end findByName
+    }//end findByUsername
 
     public String getDistance(String shopperAddress, String storeAddress) throws UnsupportedEncodingException {
         MapApiService getMapData = new MapApiService();

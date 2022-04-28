@@ -1,29 +1,45 @@
 <!DOCTYPE html>
 <html lang="en" xmlns:th="http://www.thymeleaf.org">
-
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8"/>
-    <title>Categories Page</title>
-    <link rel="stylesheet" th:href="@{/static/app.css}"/>
+    <title>Test Page</title>
+    <link rel="stylesheet" th:href="@{/app1.css}"/>
 
 </head>
 <body>
-<div class="container">
 
-    <img class="stencil" th:src="@{/images/stencil.png}" alt="Stencil">
-    <div class="text-block">
+<div class="smartphone">
+    <div class="content">
+        <div class="text-block">
+
         <h1>Shop4Me!</h1>
         <h2>Welcome Shopper Name</h2>
         <div class="content-block">
             <br>
+            <form action="/products" method="post">
             <button type="submit">Fruit</button>
-            <button type="submit">Meat</button><br>
+                </form>
 
-            <button type="submit">Veggies</button>
-            <button type="submit">Dessert</button><br>
+            <form action="/" method="post">
+                <button type="submit">Meat</button>
+            </form>
 
-            <button type="submit">Bread</button>
-            <button type="submit">Dairy</button><br>
+            <form action="/" method="post">
+                <button type="submit">Veggies</button>
+            </form>
+
+            <form action="/" method="post">
+                <button type="submit">Dessert</button>
+            </form>
+
+            <form action="/" method="post">
+                <button type="submit">Bread</button>
+            </form>
+
+            <form action="/" method="post">
+                <button type="submit">Dairy</button>
+            </form>
 
 
         </div>

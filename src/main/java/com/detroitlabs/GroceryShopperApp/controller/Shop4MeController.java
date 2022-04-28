@@ -21,7 +21,7 @@ public class Shop4MeController {
     @RequestMapping( "/")
     public String homePage()
     {
-        return "home";
+        return "test";
     }
 
 
@@ -74,13 +74,13 @@ public class Shop4MeController {
     {
         return "vsDeliveryTime";
     }
-    /*
-    @RequestMapping( "/")
+
+    @RequestMapping( "/products")
     public String virtualShopperProductsPage()
     {
-        return "virtualShopperProducts";
+        return "vsProducts";
     }
-
+/*
     @RequestMapping( "/")
     public String vsRatingsPage()
     {
