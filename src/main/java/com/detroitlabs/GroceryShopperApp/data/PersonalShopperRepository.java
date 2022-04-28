@@ -15,7 +15,7 @@ public class PersonalShopperRepository {
             new PersonalShopper("Jason", "8", "static/images/dannewport.jpg",
                     "800 Glenwood Ave SE., Atlanta, GA 30316"));
 
-    private List<PersonalShopper> getAllPersonalshoppers() {return ALL_PERSONALSHOPPERS}
+    private List<PersonalShopper> getAllPersonalshoppers() {return ALL_PERSONALSHOPPERS;}
 
     public PersonalShopper findByName(String name){
         for(PersonalShopper personalShopper: ALL_PERSONALSHOPPERS){
