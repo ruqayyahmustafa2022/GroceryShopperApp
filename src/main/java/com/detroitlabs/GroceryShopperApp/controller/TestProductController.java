@@ -13,8 +13,11 @@ import java.io.UnsupportedEncodingException;
 @Controller
 public class TestProductController {
     //this class retrieve the virtual shopper's address from repository or database
+    /*
     @RequestMapping("/test")
     @ResponseBody
+    */
+
 
    // public String retrieveMapData(String originAddress, String destinationAddress) throws UnsupportedEncodingException {
      //   MapData mapData = mapApiService.accessMapData(originAddress, destinationAddress);

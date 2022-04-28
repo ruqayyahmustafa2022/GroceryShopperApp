@@ -10,10 +10,10 @@ import java.net.URLEncoder;
 @Component
 
 public class MapApiService {
-    public MapData accessMapData() throws UnsupportedEncodingException {
+    public MapData accessMapData(String deliveryAddress, String storeAddress) throws UnsupportedEncodingException {
         RestTemplate restTemplate = new RestTemplate();
-        String storeAddress = "1115 Government St, Mobile, AL";
-        String deliveryAddress = "3843 Airport Blvd, Mobile, AL 36608, USA";
+       // String storeAddress = "1115 Government St, Mobile, AL";
+       // String deliveryAddress = "3843 Airport Blvd, Mobile, AL 36608, USA";
 
         String encodedOriginAddress =  URLEncoder.encode(storeAddress, "UTF-8");
         String encodedDestinationAddress = URLEncoder.encode(deliveryAddress, "UTF-8");

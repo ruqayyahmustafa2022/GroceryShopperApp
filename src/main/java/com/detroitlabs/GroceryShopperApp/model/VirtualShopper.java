@@ -1,6 +1,6 @@
 package com.detroitlabs.GroceryShopperApp.model;
 
-public class Shopper {
+public class VirtualShopper {
     private String firstName;
     private String lastName;
     private String creditCardNo;
@@ -27,7 +27,7 @@ public class Shopper {
         return address;
     }
 
-    public Shopper(String firstName, String lastName, String creditCardNo, String cardCVV, String address) {
+    public VirtualShopper(String firstName, String lastName, String creditCardNo, String cardCVV, String address) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.creditCardNo = creditCardNo;

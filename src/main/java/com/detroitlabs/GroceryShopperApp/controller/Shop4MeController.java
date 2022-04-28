@@ -9,18 +9,21 @@ public class Shop4MeController {
 
 //TODO: CORRECT REQUEST MAPPING FOR EACH PAGE
    //Stencil 1: login page TODO: MAKE LOGIN MORE REALISTIC
+    /*
     @RequestMapping( "/login")
     public String loginPage()
     {
         return "login";
     }
-    /*Test home page ---- THIS PAGE IS NOT RELEVANT, JUST FOR TESTING
+    //Test home page ---- THIS PAGE IS NOT RELEVANT, JUST FOR TESTING
+    */
+
     @RequestMapping( "/")
     public String homePage()
     {
         return "home";
     }
-    */
+
 
     /*
     @RequestMapping( "/")

@@ -2,7 +2,7 @@
 <html lang="en" xmlns:th="http://www.thymeleaf.org">
 
 <head>
-    <meta charset="UTF-8/">
+    <meta charset="UTF-8"/>
     <title>Categories Page</title>
     <link rel="stylesheet" th:href="@{/static/app.css}"/>
 
@@ -10,7 +10,7 @@
 <body>
 <div class="container">
 
-    <img class="stencil" src="/static/images/stencil.png" alt="Stencil">
+    <img class="stencil" th:src="@{/images/stencil.png}" alt="Stencil">
     <div class="text-block">
         <h1>Shop4Me!</h1>
         <h2>Welcome Shopper Name</h2>
@@ -25,10 +25,12 @@
             <button type="submit">Bread</button>
             <button type="submit">Dairy</button><br>
 
-        </div>
 
+        </div>
     </div>
 </div>
+
+
 
 </body>
 </html>
