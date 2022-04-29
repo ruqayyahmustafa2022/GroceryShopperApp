@@ -26,7 +26,7 @@ public class VirtualShopperRepository {
         return ALL_VIRTUALSHOPPERS;
     }//end getAllVirtualShoppers
     
-    public VirtualShopper findByUsername(String username){
+    public VirtualShopper verifyByUsername(String username){
         for(VirtualShopper virtualShopper: ALL_VIRTUALSHOPPERS){
             if(virtualShopper.getUsername().equals(username)){
                 return virtualShopper;

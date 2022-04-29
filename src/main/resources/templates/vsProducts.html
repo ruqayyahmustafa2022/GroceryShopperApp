@@ -11,59 +11,50 @@
 
 <div class="smartphone">
     <div class="content">
-        <div class="text-block">
+
+        <div class="text-block" >
 
             <h1>Shop4Me!</h1>
 
             <div class="row">
-                <div class="column"
+                <div class="column" >
                 <br>
-                <form action="" method="post">
-                    <button type="submit">Prod1</button>
-                </form>
+                 <div
+                    th:each="product: ${leftColumnProds}" >
 
+                <figure>
+                    <img th:src="${product.getImages().get(0).getSizes().get(1).getUrl()}" alt="urlImage"/>
+                   <p th:text="'$' + ${product.getItems().get(0).getPrice().getRegular()}"></p>
+                </figure>
                 <form action="" method="post">
-                    <button type="submit">Prod2</button>
-                </form>
+                    <button type="submit">Add to Cart</button>
 
-                <form action="" method="post">
-                    <button type="submit">Prod3</button>
                 </form>
+                </div>
 
-                <form action="" method="post">
-                    <button type="submit">Prod4</button>
-                </form>
-
-                <form action="" method="post">
-                    <button type="submit">Prod5</button>
-                </form>
             </div>
-            <div class = "column"
-            <form action="" method="post">
-                <button type="submit">Prod6</button>
-            </form>
-            <form action="" method="post">
-                <button type="submit">Prod7</button>
-            </form>
-            <form action="" method="post">
-                <button type="submit">Prod8</button>
-            </form>
-            <form action="" method="post">
-                <button type="submit">Prod9</button>
-            </form>
-            <form action="" method="post">
-                <button type="submit">Prod10</button>
-            </form>
-            </div>
+                <div class="column" >
+                    <br>
+                    <div
+                            th:each="product: ${rightColumnProds}" >
 
+                        <figure>
+                            <img th:src="${product.getImages().get(0).getSizes().get(1).getUrl()}" alt="urlImage"/>
+                            <p th:text="'$' + ${product.getItems().get(0).getPrice().getRegular()}"></p>
+                        </figure>
+                        <form action="" method="post">
+                            <button type="submit">Add to Cart</button>
 
-        </div>
+                        </form>
+                    </div>
+
+                </div>
 
             </div>
         </div>
     </div>
 
 
-
+</div>
 </body>
 </html>

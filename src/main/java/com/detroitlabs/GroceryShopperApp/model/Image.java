@@ -24,4 +24,14 @@ public class Image {
     public void setSizes(List<Size> sizes) {
         this.sizes = sizes;
     }
+/*
+    public String getThumbnail(){
+        for(int i = 0; i < sizes.size(); i++){
+        if(sizes.equals("thumbnail") && perspective.equals("front"))
+           return sizes.get(i).getUrl();
+        }//end for
+
+    }//end getThumbnail
+
+ */
 }

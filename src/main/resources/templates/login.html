@@ -1,47 +1,52 @@
 <!DOCTYPE html>
 <html lang="en" xmlns:th="http://www.thymeleaf.org">
-
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8"/>
-    <title>Home Page</title>
-    <link rel="stylesheet" th:href="@{/app.css}"/>
+    <title>Test Page</title>
+    <link rel="stylesheet" th:href="@{/app1.css}"/>
 
 </head>
 <body>
-<div class="container">
 
-    <img class="stencil" th:src="@{/images/stencil.png}" alt="Stencil">
-    <div class="text-block">
-        <h1>Shop4Me!</h1>
-        <h2>Login</h2>
+<div class="smartphone">
+    <div class="content">
+        <div class="text-block">
+            <h1>Shop4Me!</h1>
+            <h2>Login</h2>
 
-        <form action="/main" method="post">
-            <div class="imgcontainer">
+            <form action="/main" method="post">
+                <div class="imgcontainer">
 
-            </div>
+                </div>
 
-            <div class="form-container">
+                <div class="form-container">
 
-                <label for="uname"><b>Username</b></label><br>
-                <input type="text" placeholder="Enter Username" name="uname" required></br>
+                    <label for="uname"><b>Username</b></label><br>
+                    <input type="text" placeholder="Enter Username" name="uname"  required></br>
 
-                <label for="psw"><b>Password</b></label></br>
-                <input type="password" placeholder="Enter Password" name="psw" required>
+                    <label for="psw"><b>Password</b></label></br>
+                    <input type="password" placeholder="Enter Password" name="psw" required>
 
-                <button type="submit">Login</button><br>
-                <label>
-                    <input type="checkbox" checked="checked" name="remember"> Remember me
-                </label>
-            </div>
+                    <button type="submit">Login</button><br>
+                    <label>
+                        <input type="checkbox" checked="checked" name="remember"> Remember me
+                    </label>
+                </div>
 
-            <div class="button-container" style="background-color:#f1f1f1">
-                <button type="button" class="cancelbtn">Cancel</button>
-                <span class="psw">Forgot <a href="#">password?</a></span>
-            </div>
+                <div class="button-container" style="background-color:#f1f1f1">
+                    <button type="button" class="cancelbtn">Cancel</button>
+                    <span class="psw">Forgot <a href="#">password?</a></span>
+                </div>
 
 
-        </form>
+            </form>
+        </div>
+
+
+
+    </div>
 </div>
-</div>
+
 </body>
 </html>

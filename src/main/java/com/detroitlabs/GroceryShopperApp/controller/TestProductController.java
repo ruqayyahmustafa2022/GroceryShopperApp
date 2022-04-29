@@ -27,9 +27,9 @@ public class TestProductController {
         StoreData storeData = productAPI.accessStoreData();
         int numProduct = storeData.getMeta().getPagination().getLimit();
         String imageFile = storeData.getData().get(0).getImages().get(0).getSizes().get(0).getUrl();
-        double veggiePrice = storeData.getData().get(0).getItems().get(0).getPrice().get(0).getRegular();
+        double veggiePrice = storeData.getData().get(0).getItems().get(0).getPrice().getRegular();
+        String url = storeData.getData().get(0).getImages().get(0).getSizes().get(0).getUrl();
 
-
-        return imageFile;
+        return url;
     }
 }
