@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8"/>
+    <title>Test Page</title>
+    <link rel="stylesheet" th:href="@{/app.css}"/>
+
+</head>
+<body>
+
+<div class="smartphone">
+    <div class="content">
+
+        <div class="text-block" >
+
+            <h1>Shop4Me!</h1>
+
+            <div class="row">
+                <div class="column" >
+                <br>
+                 <div
+                    th:each="product: ${leftColumnProds}" >
+
+                <figure>
+                    <img th:src="${product.getImages().get(0).getSizes().get(1).getUrl()}" alt="urlImage"/>
+                   <p th:text="'$' + ${product.getItems().get(0).getPrice().getRegular()}"></p>
+                </figure>
+                <form action="" method="post">
+                    <button type="submit">Add to Cart</button>
+
+                </form>
+                </div>
+
+            </div>
+                <div class="column" >
+                    <br>
+                    <div
+                            th:each="product: ${rightColumnProds}" >
+
+                        <figure>
+                            <img th:src="${product.getImages().get(0).getSizes().get(1).getUrl()}" alt="urlImage"/>
+                            <p th:text="'$' + ${product.getItems().get(0).getPrice().getRegular()}"></p>
+                        </figure>
+                        <form action="" method="post">
+                            <button type="submit">Add to Cart</button>
+
+                        </form>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+</div>
+</body>
+</html>
