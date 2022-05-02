@@ -1,12 +1,8 @@
 package com.detroitlabs.GroceryShopperApp.controller;
 
 import com.detroitlabs.GroceryShopperApp.model.DataProducts;
-import com.detroitlabs.GroceryShopperApp.model.StoreData;
-import com.detroitlabs.GroceryShopperApp.service.ProductApiService;
+import com.detroitlabs.GroceryShopperApp.service.*;
 import org.springframework.ui.ModelMap;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
@@ -54,18 +50,18 @@ public class Shop4MeController {
     {
         return "psMain";
     }
-
-    @RequestMapping( "/")
+*/
+    @RequestMapping( "/cart")
     public String virtualShopperCartPage()
     {
-        return "virtualShopperCart";
+        return "vsCart";
     }
-    */
+
     @RequestMapping( "/main")
-    public String virtualShopperCategoriesPage(@RequestParam("category") String category,
-                                               ModelMap modelMap)
+    public String virtualShopperCategoriesPage()
     {
-       int selection;
+       /*
+        int selection;
 
         if(category.equals("vegetables"))
             selection = 1;
@@ -80,7 +76,7 @@ public class Shop4MeController {
         else if(category.equals("meat"))
             selection = 2;
 
-
+    */
         return "vsCategories";
     }
 
@@ -103,9 +99,9 @@ public class Shop4MeController {
         return "vsDeliveryTime";
     }
 */
-    @RequestMapping( "/products")
-    public String virtualShopperProductsPage(ModelMap modelMap) throws IOException {
-        ProductApiService storeApi = new ProductApiService();
+    @RequestMapping( "/vegetable")
+    public String virtualShopperVegetablePage(ModelMap modelMap) throws IOException {
+        VegetableApiService storeApi = new VegetableApiService();
         List<DataProducts> products = storeApi.accessStoreData().getData();
         String url = products.get(0).getImages().get(0).getSizes().get(0).getUrl();
         List<DataProducts> leftColumnProds = new ArrayList<>();
@@ -126,6 +122,123 @@ public class Shop4MeController {
         modelMap.put("rightColumnProds", rightColumnProds);
         return "vsProducts";
     }
+
+    @RequestMapping( "/bread")
+    public String virtualShopperBreadPage(ModelMap modelMap) throws IOException {
+        BreadApiService storeApi = new BreadApiService();
+        List<DataProducts> products = storeApi.accessStoreData().getData();
+        String url = products.get(0).getImages().get(0).getSizes().get(0).getUrl();
+        List<DataProducts> leftColumnProds = new ArrayList<>();
+        List<DataProducts> rightColumnProds = new ArrayList<>();
+
+        for(int i=0; i< products.size();i++)
+        {
+
+            if(i< products.size()/2){
+                leftColumnProds.add(products.get(i));
+            }
+            else
+                rightColumnProds.add(products.get(i));
+        }//end for i
+
+
+        modelMap.put("leftColumnProds", leftColumnProds);
+        modelMap.put("rightColumnProds", rightColumnProds);
+        return "vsProducts";
+    }
+    @RequestMapping( "/dairy")
+    public String virtualShopperDairyPage(ModelMap modelMap) throws IOException {
+        DairyApiService storeApi = new DairyApiService();
+        List<DataProducts> products = storeApi.accessStoreData().getData();
+        String url = products.get(0).getImages().get(0).getSizes().get(0).getUrl();
+        List<DataProducts> leftColumnProds = new ArrayList<>();
+        List<DataProducts> rightColumnProds = new ArrayList<>();
+
+        for(int i=0; i< products.size();i++)
+        {
+
+            if(i< products.size()/2){
+                leftColumnProds.add(products.get(i));
+            }
+            else
+                rightColumnProds.add(products.get(i));
+        }//end for i
+
+
+        modelMap.put("leftColumnProds", leftColumnProds);
+        modelMap.put("rightColumnProds", rightColumnProds);
+        return "vsProducts";
+    }
+    @RequestMapping( "/dessert")
+    public String virtualShopperDessertPage(ModelMap modelMap) throws IOException {
+        DessertApiService storeApi = new DessertApiService();
+        List<DataProducts> products = storeApi.accessStoreData().getData();
+        String url = products.get(0).getImages().get(0).getSizes().get(0).getUrl();
+        List<DataProducts> leftColumnProds = new ArrayList<>();
+        List<DataProducts> rightColumnProds = new ArrayList<>();
+
+        for(int i=0; i< products.size();i++)
+        {
+
+            if(i< products.size()/2){
+                leftColumnProds.add(products.get(i));
+            }
+            else
+                rightColumnProds.add(products.get(i));
+        }//end for i
+
+
+        modelMap.put("leftColumnProds", leftColumnProds);
+        modelMap.put("rightColumnProds", rightColumnProds);
+        return "Fruit";
+    }
+    @RequestMapping( "/fruit")
+    public String virtualShopperFruitPage(ModelMap modelMap) throws IOException {
+        FruitApiService storeApi = new FruitApiService();
+        List<DataProducts> products = storeApi.accessStoreData().getData();
+        String url = products.get(0).getImages().get(0).getSizes().get(0).getUrl();
+        List<DataProducts> leftColumnProds = new ArrayList<>();
+        List<DataProducts> rightColumnProds = new ArrayList<>();
+
+        for(int i=0; i< products.size();i++)
+        {
+
+            if(i< products.size()/2){
+                leftColumnProds.add(products.get(i));
+            }
+            else
+                rightColumnProds.add(products.get(i));
+        }//end for i
+
+
+        modelMap.put("leftColumnProds", leftColumnProds);
+        modelMap.put("rightColumnProds", rightColumnProds);
+        return "vsProducts";
+    }
+    @RequestMapping( "/meat")
+    public String virtualShopperProductsPage(ModelMap modelMap) throws IOException {
+        MeatApiService storeApi = new MeatApiService();
+        List<DataProducts> products = storeApi.accessStoreData().getData();
+        String url = products.get(0).getImages().get(0).getSizes().get(0).getUrl();
+        List<DataProducts> leftColumnProds = new ArrayList<>();
+        List<DataProducts> rightColumnProds = new ArrayList<>();
+
+        for(int i=0; i< products.size();i++)
+        {
+
+            if(i< products.size()/2){
+                leftColumnProds.add(products.get(i));
+            }
+            else
+                rightColumnProds.add(products.get(i));
+        }//end for i
+
+
+        modelMap.put("leftColumnProds", leftColumnProds);
+        modelMap.put("rightColumnProds", rightColumnProds);
+        return "vsProducts";
+    }
+
 /*
     @RequestMapping( "/")
     public String vsRatingsPage()

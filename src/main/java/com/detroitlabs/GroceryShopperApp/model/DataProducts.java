@@ -7,6 +7,7 @@ import java.util.List;
 public class DataProducts {
     private List<Image> images;
     private List<Item> items;
+    private String description;
 
     public List<Image> getImages() {
         return images;
@@ -22,5 +23,13 @@ public class DataProducts {
 
     public void setItems(List<Item> items) {
         this.items = items;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
     }
 }

@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.net.URLEncoder;
 
 
-public class VegetableApiService {
+public class MeatApiService {
     public StoreData accessStoreData() throws IOException {
         ObjectMapper objectMapper = new ObjectMapper();
        // RestTemplate restTemplate = new RestTemplate();
@@ -34,7 +34,7 @@ public class VegetableApiService {
                 break;
         }
 
-        categoryString = "vegetables1";
+        categoryString = "meat1";
         String encodedCategory =  URLEncoder.encode(categoryString, "UTF-8");
         return objectMapper.readValue(new File("src/main/resources/static/dataFiles/" + encodedCategory +".json"), StoreData.class);
 

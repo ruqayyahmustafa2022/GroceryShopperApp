@@ -1,14 +1,12 @@
 package com.detroitlabs.GroceryShopperApp.controller;
 
 import com.detroitlabs.GroceryShopperApp.model.StoreData;
-import com.detroitlabs.GroceryShopperApp.service.ProductApiService;
-import org.apache.catalina.Store;
+import com.detroitlabs.GroceryShopperApp.service.VegetableApiService;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
 
 @Controller
 public class TestProductController {
@@ -23,7 +21,7 @@ public class TestProductController {
      //   MapData mapData = mapApiService.accessMapData(originAddress, destinationAddress);
 
     public String accessStoreData() throws IOException {
-        ProductApiService productAPI = new ProductApiService();
+        VegetableApiService productAPI = new VegetableApiService();
         StoreData storeData = productAPI.accessStoreData();
         int numProduct = storeData.getMeta().getPagination().getLimit();
         String imageFile = storeData.getData().get(0).getImages().get(0).getSizes().get(0).getUrl();

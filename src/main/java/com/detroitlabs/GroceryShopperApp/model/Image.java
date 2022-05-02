@@ -26,12 +26,13 @@ public class Image {
     }
 /*
     public String getThumbnail(){
+        String urlName= "";
         for(int i = 0; i < sizes.size(); i++){
-        if(sizes.equals("thumbnail") && perspective.equals("front"))
-           return sizes.get(i).getUrl();
+        if(sizes.get(i).getSize().equals("small"))
+           urlName = sizes.get(i).getUrl();
         }//end for
-
+        return urlName;
     }//end getThumbnail
+*/
 
- */
 }
